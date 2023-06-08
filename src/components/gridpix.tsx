@@ -12,23 +12,23 @@ function GridPix() {
                 <div className="gallery">
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/carbon1.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/carbon1.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/carbon2.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/carbon2.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/carbon2b.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/carbon2b.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/carbon3.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/carbon3.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/carbon3b.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/carbon3b.jpg" />
                     </div>
 
 
@@ -54,23 +54,23 @@ function GridPix() {
                 <div className="gallery">
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/copper1.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/copper1.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/copper2.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/copper2.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/copper2b.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/copper2b.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/copper3.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/copper3.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/copper3b.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/copper3b.jpg" />
                     </div>
 
 
@@ -102,23 +102,23 @@ function GridPix() {
                 <div className="gallery">
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/lithium1.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/lithium1.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/lithium2.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/lithium2.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/lithium2b.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/lithium2b.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/lithium3.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/lithium3.jpg" />
                     </div>
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="./pictures/elepuppies/lithium3b.jpg" />
+                        <img className="gallery-image" src="../pictures/elepuppies/lithium3b.jpg" />
                     </div>
 
 
