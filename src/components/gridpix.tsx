@@ -12,7 +12,7 @@ function GridPix() {
                 <div className="gallery">
 
                     <div className="gallery-item">
-                        <img className="gallery-image" src="../public/pictures/elepuppies/carbon1.jpg" />
+                        <img className="gallery-image" src="../../public/pictures/elepuppies/carbon1.jpg" />
                     </div>
 
                     <div className="gallery-item">
