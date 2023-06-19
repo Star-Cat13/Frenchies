@@ -1,5 +1,6 @@
 
 import './App.css'
+import Gallery from './components/gallery'
 import Home from './components/home'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
 
       <Home />
+      <Gallery />
 
     </>
   )
