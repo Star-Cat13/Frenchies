@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
-@import '/node_modules/@fortawesome/fontawesome-free/css/all.css';
+@import 'C:\Users\banggood\Gen1genapp\template\node_modules\@fortawesome\fontawesome-free\css\all.css';
 
 #root {
   max-width: 1280px;
@@ -88,7 +88,7 @@ p {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-
+  
 }
 
 .fa-2x {
