@@ -26,7 +26,48 @@ p {
 
 }
 
+/* animate down "title */
 
+.title {
+  animation: slideDown ease 5s;
+  -webkit-animation: slideDown ease 5s;
+  -moz-animation: slideDown ease 5s;
+  -o-animation: slideDown ease 5s;
+  -ms-animation: slideDown ease 5s;
+
+}
+
+@keyframes slideDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+}
+
+/* / workspace faid in  */
+.workspace {
+  height: 1024px;
+  animation: fadeIn ease 5s;
+  -webkit-animation: fadeIn ease 5s;
+  -moz-animation: fadeIn ease 5s;
+  -o-animation: fadeIn ease 5s;
+  -ms-animation: fadeIn ease 5s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
 
 
 .footer-section {
