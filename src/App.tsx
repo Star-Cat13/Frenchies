@@ -1,5 +1,6 @@
 
 import './App.css'
+import Footer from './components/footer'
 import Gallery from './components/gallery'
 import Home from './components/home'
 
@@ -11,7 +12,7 @@ function App() {
 
       <Home />
       <Gallery />
-
+      <Footer />
     </>
   )
 }
